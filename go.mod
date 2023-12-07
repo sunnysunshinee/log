@@ -1,4 +1,4 @@
-module gitlab.yc345.tv/backend/onion-log
+module github.com/sunnysunshinee/log
 
 go 1.14
 
